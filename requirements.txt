@@ -1,4 +1,4 @@
-pip install google-cloud-artifact-registry
-pip install google-cloud-resource-manager
-pip install google-cloud-iam
-pip install crowdstrike-falconpy
+google-cloud-artifact-registry==1.15.2
+google-cloud-resource-manager==1.14.2
+google-cloud-iam==2.18.3
+crowdstrike-falconpy==1.4.7
